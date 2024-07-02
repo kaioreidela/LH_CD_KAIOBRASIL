@@ -33,5 +33,5 @@ pip install -r requirements.txt
 ```
 ## Execução
 
-Execute no VsCode e no ambiente Jupyter o arquivo notebook.ipynb
+Execute o arquivo notebook.ipynb em um ambiente Jupyter.
 
